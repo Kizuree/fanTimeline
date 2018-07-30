@@ -1,0 +1,42 @@
+body {background-color: rgb(166, 173, 153);}
+
+body {
+    text-align: center;
+    
+}
+#two{
+    border:2px solid red;
+    border-radius: 25px;
+}
+
+#three{
+    text-align:center;
+    border:2px solid blue;
+    border-radius: 25px;
+}
+#four{
+    border:2px solid black;
+    border-radius: 25px;
+    font-size: 30px;
+}
+
+#five{
+    text-align:center;
+    border:2px solid yellow;
+    border-radius:25px;
+    font-size: 30px;
+}
+
+#six{
+    border:2px solid purple;
+    border-radius:25px;
+    font-size: 30px;
+}
+
+#seven{
+    text-align:center;
+    border:2px solid pink;
+    border-radius:25px;
+    font-size: 30px;
+    
+}
